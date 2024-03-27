@@ -1,3 +1,4 @@
+# Importing spellchecker
 from spellchecker import SpellChecker
 corrector = SpellChecker()
 
