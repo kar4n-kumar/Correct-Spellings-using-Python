@@ -1,0 +1,1 @@
+Correcting spellings in a piece of text is one of the handy features that can be used in any application where users write content. For example, if you want to create a notepad, it should have a feature to identify and correct the wrong spellings. 
