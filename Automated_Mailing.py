@@ -1,3 +1,10 @@
+#Modules required are os , email.mime , smtplib , pandas.
+#These are listed in requirements.txt . USe the below command to install these dependencies.
+#pip install requirements.txt
+
+'''Update the from_addr and pd.read_csv("filepath")
+Assign email with your email-id & password with your e-mail password.
+Run script'''
 
 import pandas as pd
 import smtplib
